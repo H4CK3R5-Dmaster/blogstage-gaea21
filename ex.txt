@@ -1,0 +1,4 @@
+<div class="post-list-nav">
+                    <a rel="prev" href="#0">Prev</a>
+                    <a rel="next" href="#0">Next</a>
+                </div>
